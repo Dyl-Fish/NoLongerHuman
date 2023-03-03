@@ -1,16 +1,28 @@
-.parallax{
-    width:100%;
-}
 *{
-    color:#212121;
+    background-color:#212121;
 }
+
 h6,h5,h4,h3,h2,h1,p{
     font-family:OCR A Std, monospace;
     color:white;
+    display:flex;
+}
+h6{
+    font-size:20px;
+    display:flex;
+    text-align: center;
 }
 h5{
-    font-size:30px;
+    font-size:20px;
 }
 h4{
-    font-size:25px;
+    padding-top:20px;
+    font-size:40px;
+    display: flex;
+    height:30px;
+    justify-content: center;
+}
+img{
+    display:flex;
+    justify-content:center;
 }
