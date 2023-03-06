@@ -22,7 +22,8 @@ h4{
     height:30px;
     justify-content: center;
 }
-img{
-    display:flex;
+.mainimg{
+    display:block;
+    width:100%;
     justify-content:center;
 }
